@@ -1,0 +1,7 @@
+<mvc:View controllerName="AR_DP_REP_PREORDENCREACION_RASA.AR_DP_REP_PREORDENCREACION_RASA.controller.principal" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns="sap.m">
+		<App id="app">
+			<pages>
+			</pages>
+		</App>
+</mvc:View>
